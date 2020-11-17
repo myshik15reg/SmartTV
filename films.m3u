@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Ральф против интернета (2018)
-http://hls.kinoplayer.co/hls/RaLFFek.2.2O18.D.TS/playlist.m3u8
+#EXTINF:-1,Аватар (2017)
+https://pluton.bazonserver.site/manifest/24157/480.mp4/index.m3u8?hash=lJY-Qr7FrsrFljuoYKh_qw&cast=kCb_mpDNSkcTWRtcBIPTsA&expires=1605683734&id=24157&name=480.mp4
 #EXTINF:-1,Тони Эрдманн (2017)
 http://hls.kinokrad.co/hls/Toni.ERdmann.2016.HDRip/playlist.m3u8
-#EXTINF:-1,Арсенал (2017)
-http://hls.kinokrad.co/hls/Arsenal.2017.HDRip/playlist.m3u8
 #EXTINF:-1,Заговор на острове Джекилл (2017)
 http://hls.kinokrad.co/hls/Zagovor.na.ostrove.Djekill.2017.HDRip/playlist.m3u8
 #EXTINF:-1,Жуткая история (2017)
