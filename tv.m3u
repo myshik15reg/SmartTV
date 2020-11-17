@@ -5560,8 +5560,6 @@ http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 http://87.252.229.252:8083/pinsk
 #EXTINF:-1,Белсат ТВ
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
-#EXTINF:-1,1+1
-http://163.172.71.147:8080/1plus1/mpegts
 #EXTINF:-1,2+2
 http://163.172.71.147:8080/2plus2/mpegts
 #EXTINF:-1,Центральний ТВ
@@ -6663,8 +6661,6 @@ http://sitv.ru/hls/stv1024.m3u8
 http://62.32.67.187:1935/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 ,Тивиком HD
 http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,1+1 HD
-https://live-k2301-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b1196000.m3u8
 #EXTINF:-1 ,100% News HD
 http://62.113.210.250/medienasa-live/_definst_/mp4:RFH_high/chunklist_w455064056.m3u8
 #EXTINF:-1 ,112 UA HD
