@@ -1,22 +1,10 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:-1 ,Discovery
-http://178.217.72.66/225.201.2.88/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery HD
-http://178.217.72.66/225.201.2.50/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery Science
-http://178.217.72.66/225.201.2.75/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery Showcese
-http://193.151.107.120:8000/play/63/index.m3u8
+########################################################################################################################################HDRip############################################################################################
+#EXTGRP:HD
+
 #EXTINF:-1 ,ID
 http://178.217.72.66/225.201.2.70/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery HD
-http://live-ng-01.more.tv/hls/Discovery_HD/index_0.m3u8
-#EXTINF:-1 ,Discovery_HD
-http://live-ng-01.more.tv/hls/Discovery_HD/index_5.m3u8
-#EXTINF:-1 ,Discovery FHD
-http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
-#EXTINF:-1 ,Discovery_Science_HD
-http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
+
 #EXTINF:-1 ,National Geographic HD
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 #EXTINF:-1 ,National Geographic_HD
@@ -49,8 +37,6 @@ http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/574/stream.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Brics TV HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Discovery Channel HD
-http://178.217.72.66:80/225.201.2.50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,HDL
 http://89.106.234.3:80/hdl_38_39.m3u8
 #EXTINF:-1 ,Terra Incognita HD
@@ -1265,9 +1251,6 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1,Discovery Channel
 #EXTGRP:Познавательные
 http://79.142.197.8:8888/Discovery/index.m3u8
-#EXTINF:-1,Discovery
-#EXTGRP:Познавательные
-http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
 #EXTINF:-1,Discovery
 #EXTGRP:Познавательные
 http://212.42.193.122:8888/play/a00l/index.m3u8
