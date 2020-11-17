@@ -1,4 +1,33 @@
 #EXTM3U
+#EXTGRP:Мультфильмы
+#EXTGRP:Вестерны
+#EXTGRP:Драмы
+#EXTGRP:Детективы
+#EXTGRP:Биография
+#EXTGRP:Мелодрамы
+#EXTGRP:Военные
+#EXTGRP:Боевики
+#EXTGRP:Комедии
+#EXTGRP:Криминальные
+#EXTGRP:Триллеры
+#EXTGRP:Исторические
+#EXTGRP:Документальные
+#EXTGRP:Приключения
+#EXTGRP:Мистические
+#EXTGRP:Ужасы
+#EXTGRP:Семейные
+#EXTGRP:Спортивные
+#EXTGRP:Фантастика
+#EXTGRP:Фэнтези
+#EXTGRP:HDRip
+#EXTGRP:BDRip
+#EXTINF:-1,Автар(2009) BDRip
+https://cdn4502.vb17120ayeshajenkins.pw/stream2/cdn-400/c7d8d861e8877ad4de56f3df46adcea2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVGx2TEZEaapmVo1ERRlXTUtGeZpXRykVbFdnWElENZpmWq5kMOt2TEdWP:1605644836:91.132.107.17:09888acb4b11a7707b8848bb255c0ec8df1238342b049e3a911bc4e9b0bed3e8/1080/index.m3u8
+#EXTINF:-1,vg-name="Мстители (2012) BDRip" tvg-logo="https://image.kinokrad.co/p/f/1442528822_mstiteli.jpeg", Мстители (2012) BDRip
+https://hls.kinokrad.co/hls/Mstiteli.2012.D.BDRip/playlist.m3u8
+#EXTINF:-1,vg-name="Иллюзия обмана (2013) BDRip" tvg-logo="https://image.kinokrad.co/p/f/1387389131_illyuziya-obmana.jpeg", Иллюзия обмана (2013) BDRip
+https://hls.kinokrad.co/hls/Illyuziya.obmana.TC.2013.DUAL.BDRip.XviD.AC3.-HQCLUB/playlist.m3u8
+#EXTGRP:Нераспределённые
 ##EXTINF:-1,Тони Эрдманн (2017)
 #http://hls.kinokrad.co/hls/Toni.ERdmann.2016.HDRip/playlist.m3u8
 #EXTINF:-1,Заговор на острове Джекилл (2017)
@@ -3033,13 +3062,10 @@ http://mn.kinoprofi.org/hls/Priklucheniya.Krasnogo.Samoletika.2014.HDRip/playlis
 #EXTGRP:Кино
 https://hls.kinokrad.co/hls/HD.PM.Greenland_2020_HDRip_Line_by_Dalemake/playlist.m3u8
 #EXTINF:-1,Автар(2009) BDRip
-#EXTGRP:Кино фантастика BDRip
 https://cdn4502.vb17120ayeshajenkins.pw/stream2/cdn-400/c7d8d861e8877ad4de56f3df46adcea2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVGx2TEZEaapmVo1ERRlXTUtGeZpXRykVbFdnWElENZpmWq5kMOt2TEdWP:1605644836:91.132.107.17:09888acb4b11a7707b8848bb255c0ec8df1238342b049e3a911bc4e9b0bed3e8/1080/index.m3u8
 #EXTINF:-1,vg-name="Мстители (2012) BDRip" tvg-logo="https://image.kinokrad.co/p/f/1442528822_mstiteli.jpeg", Мстители (2012) BDRip
-#EXTGRP:Кино фантастика BDRip
 https://hls.kinokrad.co/hls/Mstiteli.2012.D.BDRip/playlist.m3u8
 #EXTINF:-1,vg-name="Иллюзия обмана (2013) BDRip" tvg-logo="https://image.kinokrad.co/p/f/1387389131_illyuziya-obmana.jpeg", Иллюзия обмана (2013) BDRip
-#EXTGRP:Кино детектив BDRip
 https://hls.kinokrad.co/hls/Illyuziya.obmana.TC.2013.DUAL.BDRip.XviD.AC3.-HQCLUB/playlist.m3u8
 #EXTINF:-1 ,Dior и я (2014)
 https://vs17.vcdn.biz/80af9c0b90c4588bac6917401ce8c96c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35342641/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid809200809-b2000000.m3u8
