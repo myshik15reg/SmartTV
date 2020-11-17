@@ -1,7 +1,7 @@
 #EXTM3U
 ########################################################################################################################################Мультфильмы############################################################################################
-#EXTGRP:Мультфильмы
 #EXTINF:-1 ,Ну погоди! Выпуск 1 (1969)
+#EXTGRP:Мультфильмы
 http://dl.mults.info/mp4/nu_pogodi_01.mp4
 #EXTINF:-1 ,Ну погоди! Выпуск 10 (1976)
 http://dl.mults.info/mp4/nu_pogodi_10.mp4
@@ -78,8 +78,8 @@ http://dl.mults.info/mp4/troe_iz_prostokvashino.mp4
 ########################################################################################################################################Спортивные############################################################################################
 #EXTGRP:Спортивные
 ########################################################################################################################################Фантастика############################################################################################
-#EXTGRP:Фантастика
 #EXTINF:-1  tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Братство кольца (2002)
+#EXTGRP:Фантастика
 https://hls.kinoprofi.vip/hls/Vlastelin.Kolec.Bratstvo.Kolca.HDRip/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Две крепости (2003)
 https://hls.kinoprofi.vip/hls/The.Lord.of.the.Rings2Towers.2003hdrip/playlist.m3u8
@@ -628,8 +628,8 @@ http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Pr
 ########################################################################################################################################HDRip############################################################################################
 #EXTGRP:HDRip
 ########################################################################################################################################BDRip############################################################################################
-#EXTGRP:BDRip
 #EXTINF:-1,Автар(2009) BDRip
+#EXTGRP:BDRip
 https://cdn4502.vb17120ayeshajenkins.pw/stream2/cdn-400/c7d8d861e8877ad4de56f3df46adcea2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVGx2TEZEaapmVo1ERRlXTUtGeZpXRykVbFdnWElENZpmWq5kMOt2TEdWP:1605644836:91.132.107.17:09888acb4b11a7707b8848bb255c0ec8df1238342b049e3a911bc4e9b0bed3e8/1080/index.m3u8
 #EXTINF:-1,vg-name="Мстители (2012) BDRip" tvg-logo="https://image.kinokrad.co/p/f/1442528822_mstiteli.jpeg", Мстители (2012) BDRip
 https://hls.kinokrad.co/hls/Mstiteli.2012.D.BDRip/playlist.m3u8
