@@ -1005,9 +1005,6 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1,Мужское кино HD
 #EXTGRP:Кино
 http://188.35.9.11:2022
-#EXTINF:-1,Кино UHD
-#EXTGRP:Кино
-http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Kino 24
 #EXTGRP:Кино
 http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
@@ -2846,8 +2843,6 @@ http://188.35.9.11:2022
 http://79.135.71.195:8014
 #EXTINF:-1,Amedia Hit HD
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1,Кино UHD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Kino 24
 http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1,Любимый HD
@@ -5222,8 +5217,6 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1,Мужское кино HD
 http://188.35.9.11:2022
-#EXTINF:-1,Кино UHD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Kino 24
 http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1,Любимый HD
@@ -7156,8 +7149,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 http://v2.catcast.me/content/36334/index.m3u8
 #EXTINF:-1 ,Кино 24
 http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 ,Кино UHD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1  tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/674565182785323014/catcast.png",кино с плюсом
 http://v2.catcast.tv/content/37353/index.m3u8
 #EXTINF:-1 ,Кинозал 10 (EVGEN Serial)
