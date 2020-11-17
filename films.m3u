@@ -1,32 +1,692 @@
 #EXTM3U
+########################################################################################################################################Мультфильмы############################################################################################
 #EXTGRP:Мультфильмы
+#EXTINF:-1 ,Ну погоди! Выпуск 1 (1969)
+http://dl.mults.info/mp4/nu_pogodi_01.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 10 (1976)
+http://dl.mults.info/mp4/nu_pogodi_10.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 11 (1977)
+http://dl.mults.info/mp4/nu_pogodi_11.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 12 (1978)
+http://dl.mults.info/mp4/nu_pogodi_12.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 13 (1980)
+http://dl.mults.info/mp4/nu_pogodi_13.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 14 (1984)
+http://dl.mults.info/mp4/nu_pogodi_14.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 15 (1985)
+http://dl.mults.info/mp4/nu_pogodi_15.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 16 (1986)
+http://dl.mults.info/mp4/nu_pogodi_16.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 17 (1993)
+http://dl.mults.info/mp4/nu_pogodi_17.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 18 (1993)
+http://dl.mults.info/mp4/nu_pogodi_18.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 19 (2005)
+http://dl.mults.info/mp4/nu_pogodi_19.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 2 (1970)
+http://dl.mults.info/mp4/nu_pogodi_02.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 20 (2006)
+http://dl.mults.info/mp4/nu_pogodi_20.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 3 (1971)
+http://dl.mults.info/mp4/nu_pogodi_03.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 4 (1971)
+http://dl.mults.info/mp4/nu_pogodi_04.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 5 (1972)
+http://dl.mults.info/mp4/nu_pogodi_05.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 6 (1973)
+http://dl.mults.info/mp4/nu_pogodi_06.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 7 (1973)
+http://dl.mults.info/mp4/nu_pogodi_07.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 8 (1974)
+http://dl.mults.info/mp4/nu_pogodi_08.mp4
+#EXTINF:-1 ,Ну погоди! Выпуск 9 (1976)
+http://dl.mults.info/mp4/nu_pogodi_09.mp4
+#EXTINF:-1 ,Трое из Простоквашино (1976)
+http://dl.mults.info/mp4/troe_iz_prostokvashino.mp4
+########################################################################################################################################Вестерны############################################################################################
 #EXTGRP:Вестерны
+########################################################################################################################################Драмы############################################################################################
 #EXTGRP:Драмы
+########################################################################################################################################Детективы############################################################################################
 #EXTGRP:Детективы
+########################################################################################################################################Биография############################################################################################
 #EXTGRP:Биография
+########################################################################################################################################Мелодрамы############################################################################################
 #EXTGRP:Мелодрамы
+########################################################################################################################################Военные############################################################################################
 #EXTGRP:Военные
+########################################################################################################################################Боевики############################################################################################
 #EXTGRP:Боевики
+########################################################################################################################################Комедии############################################################################################
 #EXTGRP:Комедии
+########################################################################################################################################Криминальные############################################################################################
 #EXTGRP:Криминальные
+########################################################################################################################################Триллеры############################################################################################
 #EXTGRP:Триллеры
+########################################################################################################################################Исторические############################################################################################
 #EXTGRP:Исторические
+########################################################################################################################################Документальные############################################################################################
 #EXTGRP:Документальные
+########################################################################################################################################Приключения############################################################################################
 #EXTGRP:Приключения
+########################################################################################################################################Мистические############################################################################################
 #EXTGRP:Мистические
+########################################################################################################################################Ужасы############################################################################################
 #EXTGRP:Ужасы
+########################################################################################################################################Семейные############################################################################################
 #EXTGRP:Семейные
+########################################################################################################################################Спортивные############################################################################################
 #EXTGRP:Спортивные
+########################################################################################################################################Фантастика############################################################################################
 #EXTGRP:Фантастика
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Братство кольца (2002)
+https://hls.kinoprofi.vip/hls/Vlastelin.Kolec.Bratstvo.Kolca.HDRip/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Две крепости (2003)
+https://hls.kinoprofi.vip/hls/The.Lord.of.the.Rings2Towers.2003hdrip/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Возвращение Короля (2004)
+https://hls.kinoprofi.vip/hls/Vlastelin.Kolec.Vozvrashenie.Korolya.2003.HDRip/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Матрица (1999)
+https://bk-hls.kinoprofi.vip/hls/Matrix.HDRip/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Матрица: Перезагрузка (2003)
+https://bk2-hls.kinoprofi.vip/hls/Matrix_HDRip_Perezagruzka/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Матрица: Революция (2003)
+https://bk2-hls.kinoprofi.vip/hls/Matrix_HDRip_Revoluciya/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном (1999)
+https://hls.kinokrad.co/hls/Ludi.v.chernom.HDRip/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном 2 (2002)
+https://bk2-hls.kinoprofi.vip/hls/Men.In.Black_2_HDRip/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном 3 (2012)
+https://hls.kinoprofi.vip/hls/Ljudi.v.Chernom.3.D.BDRip/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном: Интернэшнл (2019)
+https://hls.kinoprofi.vip/hls/Men.in.Black.International.HD.PM/playlist.m3u8
+########################################################################################################################################Фэнтези############################################################################################
 #EXTGRP:Фэнтези
+#####################################################################################################################################Сериалы################################################################################################
+#EXTGRP:Сериалы
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы1-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E01.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы2-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E02.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы3-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E03.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы4-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E04.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы5-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E05.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы6-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E06.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы7-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E07.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы8-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E08.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы9-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E09.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы10-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E10.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы11-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E11.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы12-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E12.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы13-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E13.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы14-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E14.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы15-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E15.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы16-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E16.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы17-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E17.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы18-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E18.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы19-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E19.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы20-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E20.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы21-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E21.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы22-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E22.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа2
+http://data12-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.1.sezon.2.seria.iz.6.1989.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа4
+http://data12-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.1.sezon.4.seria.iz.6.1989.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа5
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.1.sezon.5.seria.iz.6.1989.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа2-1
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.01.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-4
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.04.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-8
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.08.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-15
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.15.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-17
+http://data09-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.17.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-5
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.05.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-6
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.06.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-10
+http://data12-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.10.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-12
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.12.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 4-3
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.4.sezon.03.seria.iz.14.1992.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 4-6
+http://data09-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.4.sezon.06.seria.iz.14.1992.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 4-11
+http://data09-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.4.sezon.11.seria.iz.14.1992.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 4-14
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.4.sezon.14.seria.iz.14.1992.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-4
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.04.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-8
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.08.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-9
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.09.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-11
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.11.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 6-1
+http://data09-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.6.sezon.01.seria.iz.15.1994.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 6-2
+http://data09-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.6.sezon.02.seria.iz.15.1994.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 6-7
+http://data05-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.6.sezon.07.seria.iz.15.1994.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 6-8
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.6.sezon.08.seria.iz.15.1994.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-3
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.03..a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-6
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.06..a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-9
+http://data05-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.09..a1.31.10.12.mp4
+#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-11
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.11..a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e01
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e01.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e02
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e02.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e03
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e03.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e04
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e04.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e05
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e05.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e06
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e06.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e07
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e07.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e08
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e08.WEBDLRip.NewStudio/playlist.m3u8
+
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 1 Серия 2
+http://data05-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e02.Hard.Lives.Easy.Deaths.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 1 Серия 3
+http://data09-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e03.Unforced.Errors.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 1 Серия 4
+http://data12-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e04.Death.Over.Easy.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 1 Серия 8
+http://data05-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e08.The.Good.The.Bad.and.the.Dead.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 1 Серия 9
+http://data03-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e09.Death.Be.Not.Stupid.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 2 Серия 7
+http://data09-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s02e07.Come.On.Get.Deathy.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 2 Серия 8
+http://data01-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s02e08.Death.Watch.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 2 Серия 9
+http://data03-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s02e09.Waking.Up.Dead.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 3 Серия 1
+http://data12-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e01.Death.On.A.Stick.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 3 Серия 2
+http://data01-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e02.Putting.A.Smiley.Face.On.Death.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 3 Серия 7
+http://data06-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e07.Hurry.Up.and.Die.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 3 Серия 9
+http://data03-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e09.Young.Dumb.and.Full.of.Death.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-1
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.01.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-2
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.02.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-3
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.03.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-4
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.04.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-5
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.05.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-6
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.06.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-7
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.07.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-8
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.08.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-9
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.09.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-10
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.10.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-11
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.11.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 1-12
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.12.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-1
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.01.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-2
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.02.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-3
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.03.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-4
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.04.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-5
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.05.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-6
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.06.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-7
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.07.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-8
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.08.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-9
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.09.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-10
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.10.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-11
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.11.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-12
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.12.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-13
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.13.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-14
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.14.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-15
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.15.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 2-16
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.16.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-1
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.01.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-2
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.02.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-3
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.03.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-4
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.04.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-5
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.05.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-6
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.06.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-7
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.07.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-8
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.08.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-9
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.09.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-10
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.10.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-11
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.11.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-12
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.12.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-13
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.13.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-14
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.14.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-15
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.15.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-16
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.16.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-17
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.17.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-18
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.18.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-19
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.19.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-20
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.20.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-21
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.21.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-22
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.22.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-23
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.23.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 3-24
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.24.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-1
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.01.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-2
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.02.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-3
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.03.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-4
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.04.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-5
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.05.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-6
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.06.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-7
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.07.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-8
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.08.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-9
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.09.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-10
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.10.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-11
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.11.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 4-12
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.12.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-1
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.01.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-2
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.02.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-3
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.03.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-4
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.04.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-5
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.05.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-6
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.06.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-7
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.07.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-8
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.08.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-9
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.09.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-10
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.10.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-11
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.11.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-12
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.12.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-13
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.13.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-14
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.14.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-15
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.15.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-16
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.16.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-17
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.17.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-18
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.18.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-19
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.19.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-20
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.20.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-21
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.21.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-22
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.22.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-23
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.23.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 5-24
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.24.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-1
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.01.seriya.iz.20.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-2
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.02.seriya.iz.20.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-3
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.03.seriya.iz.20.2000.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-4
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.04.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-5
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.05.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-6
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.06.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-7
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.07.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-8
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.08.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-9
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.09.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-10
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.10.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-11
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.11.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-12
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.12.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-13
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.13.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-14
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.14.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-15
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.15.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-16
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.16.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-17
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.17.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-18
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.18.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-19
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.19.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Деревня Дураков" tvg-logo="https://pbs.twimg.com/profile_images/611207652585144320/rnZJLvB2_400x400.jpg",ДЕРЕВНЯ ДУРАКОВ 6-20
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Derevnja.Durakov.20.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 1
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.1.seriya..Kabare.Maski-Shou..Epizod.1.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 2
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.2.seriya..Kabare.Maski-Shou..Epizod.2.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 3
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.3.seriya..Kabare.Maski-Shou..Epizod.3.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 4
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.4.seriya..Kabare.Maski-Shou..Epizod.4.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 5
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.5.seriya..Kabare.Maski-Shou..Epizod.5.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 6
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.6.seriya..Kabare.Maski-Shou..Epizod.6.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 7
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.7.seriya..Kabare.Maski-Shou..Epizod.7.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 9
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.9.seriya..Kabare.Maski-Shou..Epizod.9.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 11
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.11.seriya..Kabare.Maski-Shou..Epizod.11.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 12
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.12.seriya..Kabare.Maski-Shou..Epizod.12.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 13
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.13.seriya..Kabare.Maski-Shou..Epizod.13.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 14
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.14.seriya..Kabare.Maski-Shou..Epizod.14.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 15
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.15.seriya..Kabare.Maski-Shou..Epizod.15.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 16
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.16.seriya..Kabare.Maski-Shou..Epizod.16.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 17
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.17.seriya..Maski.v.Rossii..Epizod.1.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 19
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.19.seriya..Maski.v.Rossii..Epizod.3.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 20
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.20.seriya..Maski.v.Rossii..Epizod.4.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 21
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.21.seriya..Maski.v.GAI.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 23
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.23.seriya..Maski.v.Odesse.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 24
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.24.seriya..Maski.v.Strane.Voshodyaschego.Solnca.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 25
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.25.seriya..Maski.v.armii..Epizod.1.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 26
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.26.seriya..Maski.v.armii..Epizod.2.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 28
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.28.seriya..Maski.v.bolnice..Epizod.2.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 29
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.29.seriya..Maski.v.kazino.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 31
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.31.seriya..Maski.v.kolhoze..Epizod.1.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 32
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.32.seriya..Maski.v.kolhoze..Epizod.2.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 33
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.33.seriya..Maski.v.kriminale.Pohischennyy.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 34
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.34.seriya..Maski.v.opere-1.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 35
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.35.seriya..Maski.v.opere-2..Epizod.1.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 36
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.36.seriya..Maski.v.opere-2..Epizod.2.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 37
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.37.seriya..Maski.v.parke.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 38
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.38.seriya..Maski.v.partizanskom.otryade..Epizod.1.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 39
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.39.seriya..Maski.v.partizanskom.otryade..Epizod.2.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 41
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.41.seriya..Maski.v.partizanskom.otryade..Epizod.4.a1.23.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 42
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.42.seriya..Maski.v.poezde..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 43
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.43.seriya..Maski.v.poezde..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 44
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.44.seriya..Maski.v.sude..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 45
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.45.seriya..Maski.v.sude..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 46
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.46.seriya..Maski.v.trolleybuse.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 47
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.47.seriya..Maski.v.tyurme..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 48
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.48.seriya..Maski.v.tyurme..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 49
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.49.seriya..Maski.grabyat.bank.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 50
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.50.seriya..Maski.i.Dzhentlmeny..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 51
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.51.seriya..Maski.i.Dzhentlmeny..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 52
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.52.seriya..Maski.ischut.klad.Maski.v.Kolumbii.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 54
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.54.seriya..Maski.na.Vyborah..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 58
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.58.seriya..Maski.na.Vyborah..Epizod.6.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 59
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.59.seriya..Maski.na.Dikom.Vostoke..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 60
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.60.seriya..Maski.na.Dikom.Vostoke..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 61
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.61.seriya..Maski.na.boyah.bez.pravil.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 62
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.62.seriya..Maski.na.imeninah..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 63
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.63.seriya..Maski.na.imeninah..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 64
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.64.seriya..Maski.na.kinostudii..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 65
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.65.seriya..Maski.na.kinostudii..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 66
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.66.seriya..Maski.na.mitinge.smotret.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 67
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.67.seriya..Maski.na.neobitaemom.ostrove..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 68
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.68.seriya..Maski.na.neobitaemom.ostrove..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 69
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.69.seriya..Maski.na.parohode.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 70
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.70.seriya..Maski.na.piknike.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 71
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.71.seriya..Maski.na.pozhare.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 72
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.72.seriya..Maski.na.remonte.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 73
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.73.seriya..Maski.na.svadbe.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 74
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.74.seriya..Maski.na.sekretnom.obekte.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 76
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.76.seriya..Maski.sport-shou..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 77
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.77.seriya..Maski.sport-shou..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 78
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.78.seriya..Drakula..rokovoy.treugolnik.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 79
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.79.seriya..Lyamur.kafe.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 80
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.80.seriya..Troe.v.chume..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 81
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.81.seriya..Troe.v.chume..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 82
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.82.seriya..Chest.samuraya..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 84
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.84.seriya..Shaherezada..1002.noch.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 85
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.85.seriya..Mumiya.v.gostyah.u.Masok..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 86
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.86.seriya..Mumiya.v.gostyah.u.Masok..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 87
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.87.seriya..Prishelec.v.gostyah.u.Masok..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 90
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.90.seriya..Prishelec.v.gostyah.u.Masok..Epizod.4.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 91
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.91.seriya..Supersketchi.Maski-shou..Epizod.1.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 92
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.92.seriya..Supersketchi.Maski-shou..Epizod.2.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 94
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.94.seriya..Supersketchi.Maski-shou..Epizod.4.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 95
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.95.seriya..Supersketchi.Maski-shou..Epizod.5.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 96
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.96.seriya..Supersketchi.Maski-shou..Epizod.6.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 97
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.97.seriya..Maski..Prezentacionnoe.shou.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 98
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.98.seriya..Maski-.zhizn.kak.shou.a1.24.11.13.mp4
+#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 99
+http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.99.seriya..Maski-shou.prodolzhaetsya.a1.24.11.13.mp4
+########################################################################################################################################HDRip############################################################################################
 #EXTGRP:HDRip
+########################################################################################################################################BDRip############################################################################################
 #EXTGRP:BDRip
+#EXTINF:-1 ,Боги Египта 60 FPS/Gods of Egypt
+http://kinoteatr.kg/video2/Filmu/7Bogi%20Egipta.2016.60fps.mp4
+#EXTINF:-1 ,Дэдпул 60 FPS/Deadpool
+http://kinoteatr.kg/video1/Filmu/7Deadpool.2016.60fps.mp4
+#EXTINF:-1 ,Гравитация 60 FPS/Gravity
+http://kinoteatr.kg/video1/Filmu/7Gravitazia.2013.60fps.mp4
+#EXTINF:-1 ,Халк 60 FPS/Hulk
+http://kinoteatr.kg/video1/Filmu/7Halk1.2003.60fps.mp4
+#EXTINF:-1 ,Невероятный Халк 60 FPS/The Incredible Hulk
+http://kinoteatr.kg/video1/Filmu/7Halk2.2008.60%20fps.mp4
+#EXTINF:-1 ,Интерстеллар 60 FPS/Interstellar
+http://kinoteatr.kg/video2/Filmu/7Interstellar.2014.60fps.mp4
+#EXTINF:-1 ,Железный человек 60 FPS/Iron Man
+http://kinoteatr.kg/video1/Filmu/7Ironmen1.2008.60fps.mp4
+#EXTINF:-1 ,Железный человек 2 60 FPS/Iron Man 2
+http://kinoteatr.kg/video1/Filmu/7Ironmen2.2010.60fps.mp4
+#EXTINF:-1 ,Железный человек 3 60 FPS/Iron Man Three
+http://kinoteatr.kg/video1/Filmu/7Ironmen3.2013.60fps.mp4
+#EXTINF:-1 ,Кинг Конг 60 FPS/King Kong
+http://kinoteatr.kg/video1/Filmu/7King%20Kong.2005.60fps.mp4
+#EXTINF:-1 ,Обливион 60 FPS/Oblivion
+http://kinoteatr.kg/video1/Filmu/7Oblivion.2013.60fps.mp4
+#EXTINF:-1 ,Повелитель стихий 60 FPS/The Last Airbender
+http://kinoteatr.kg/video1/Filmu/7Povelitel.stihij.2010.60fps.mp4
+#EXTINF:-1 ,Соломон Кейн 60 FPS/Solomon Kane
+http://kinoteatr.kg/video1/Filmu/7Solomon%20Kane.2009.60fps.mp4
+#EXTINF:-1 ,Человек-паук 60 FPS/Spider-Man
+http://kinoteatr.kg/video1/Filmu/7Spidermen1.2002.60fps.mp4
+#EXTINF:-1 ,Человек-паук 2 60 FPS/Spider-Man 2
+http://kinoteatr.kg/video1/Filmu/7Spidermen2.2004.60fps.mp4
+#EXTINF:-1 ,Аватар 60 FPS/Avatar
+http://kinoteatr.kg/video2/Filmu/7Avatar.2009.60fps.mp4
+#EXTINF:-1 ,Морской бой 60 FPS/Battleship
+http://kinoteatr.kg/video2/Filmu/7Battleship.2012.60fps.mp4
+#EXTINF:-1 ,Глубоководный горизонт 60 FPS/Deepwater Horizon
+http://kinoteatr.kg/video2/Filmu/7Glubokovodnyi%20gorizont%202016.60fps.mp4
+#EXTINF:-1 ,Храброе сердце 60 FPS/Braveheart
+http://kinoteatr.kg/video2/Filmu/7Hrabroe%20cerdce.1995.60fps.mp4
+#EXTINF:-1 ,Robot
+http://kinoteatr.kg/video2/Filmu/7Ya%20robot.2004.60fps.mp4
+#EXTINF:-1 ,Король Артур 60 FPS/King Arthur
+http://kinoteatr.kg/video2/Filmu/7King%20Arthur.2004.60fps.mp4
+#EXTINF:-1 ,Законопослушный гражданин 60 FPS/Law Abiding Citizen
+http://kinoteatr.kg/video2/Filmu/7Zakonoposlushnui%20grajdanin.2009%2060fps.mp4
+#EXTINF:-1 ,Книга Илая 60 FPS/The Book of Eli
+http://kinoteatr.kg/video2/Filmu/7Kniga%20Ilaya.2010.60fps.mp4
+#EXTINF:-1 ,Перл-Харбор 60 FPS/Pearl Harbor
+http://kinoteatr.kg/video2/Filmu/7Pearl%20Harbor.2001.60fps.mp4
+#EXTINF:-1 ,Ромео должен умереть 60 FPS/Romeo Must Die
+http://kinoteatr.kg/video2/Filmu/7Romeo%20doljen%20umeret.2000.60fps.mp4
 #EXTINF:-1,Автар(2009) BDRip
 https://cdn4502.vb17120ayeshajenkins.pw/stream2/cdn-400/c7d8d861e8877ad4de56f3df46adcea2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVGx2TEZEaapmVo1ERRlXTUtGeZpXRykVbFdnWElENZpmWq5kMOt2TEdWP:1605644836:91.132.107.17:09888acb4b11a7707b8848bb255c0ec8df1238342b049e3a911bc4e9b0bed3e8/1080/index.m3u8
 #EXTINF:-1,vg-name="Мстители (2012) BDRip" tvg-logo="https://image.kinokrad.co/p/f/1442528822_mstiteli.jpeg", Мстители (2012) BDRip
 https://hls.kinokrad.co/hls/Mstiteli.2012.D.BDRip/playlist.m3u8
 #EXTINF:-1,vg-name="Иллюзия обмана (2013) BDRip" tvg-logo="https://image.kinokrad.co/p/f/1387389131_illyuziya-obmana.jpeg", Иллюзия обмана (2013) BDRip
 https://hls.kinokrad.co/hls/Illyuziya.obmana.TC.2013.DUAL.BDRip.XviD.AC3.-HQCLUB/playlist.m3u8
+########################################################################################################################################Нераспределённые############################################################################################
 #EXTGRP:Нераспределённые
 ##EXTINF:-1,Тони Эрдманн (2017)
 #http://hls.kinokrad.co/hls/Toni.ERdmann.2016.HDRip/playlist.m3u8
