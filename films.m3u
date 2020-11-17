@@ -100,7 +100,11 @@ https://hls.kinoprofi.vip/hls/Ljudi.v.Chernom.3.D.BDRip/playlist.m3u8
 #EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном: Интернэшнл (2019)
 https://hls.kinoprofi.vip/hls/Men.in.Black.International.HD.PM/playlist.m3u8
 ########################################################################################################################################Фэнтези############################################################################################
-#EXTGRP:Фэнтези
+#PLAYLIST:Playlist1
+#EXTINF:-1 group_id="1" group-title="Группа1" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы1-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E01.LostFilm/playlist.m3u8
+#EXTINF:-1 ggroup_id="1" group-title="Группа2" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы1-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E01.LostFilm/playlist.m3u8
 #####################################################################################################################################Сериалы################################################################################################
 #EXTGRP:Сериалы
 #EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы1-серия
@@ -219,7 +223,6 @@ https://hls.kinoprofi.vip/hls/The.Witcher.s01e06.WEBDLRip.NewStudio/playlist.m3u
 https://hls.kinoprofi.vip/hls/The.Witcher.s01e07.WEBDLRip.NewStudio/playlist.m3u8
 #EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e08
 https://hls.kinoprofi.vip/hls/The.Witcher.s01e08.WEBDLRip.NewStudio/playlist.m3u8
-
 #EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 1 Серия 2
 http://data05-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e02.Hard.Lives.Easy.Deaths.Rus.SATRip.a1.28.03.13.mp4
 #EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 1 Серия 3
@@ -630,56 +633,6 @@ http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Pr
 #EXTGRP:HDRip
 ########################################################################################################################################BDRip############################################################################################
 #EXTGRP:BDRip
-#EXTINF:-1 ,Боги Египта 60 FPS/Gods of Egypt
-http://kinoteatr.kg/video2/Filmu/7Bogi%20Egipta.2016.60fps.mp4
-#EXTINF:-1 ,Дэдпул 60 FPS/Deadpool
-http://kinoteatr.kg/video1/Filmu/7Deadpool.2016.60fps.mp4
-#EXTINF:-1 ,Гравитация 60 FPS/Gravity
-http://kinoteatr.kg/video1/Filmu/7Gravitazia.2013.60fps.mp4
-#EXTINF:-1 ,Халк 60 FPS/Hulk
-http://kinoteatr.kg/video1/Filmu/7Halk1.2003.60fps.mp4
-#EXTINF:-1 ,Невероятный Халк 60 FPS/The Incredible Hulk
-http://kinoteatr.kg/video1/Filmu/7Halk2.2008.60%20fps.mp4
-#EXTINF:-1 ,Интерстеллар 60 FPS/Interstellar
-http://kinoteatr.kg/video2/Filmu/7Interstellar.2014.60fps.mp4
-#EXTINF:-1 ,Железный человек 60 FPS/Iron Man
-http://kinoteatr.kg/video1/Filmu/7Ironmen1.2008.60fps.mp4
-#EXTINF:-1 ,Железный человек 2 60 FPS/Iron Man 2
-http://kinoteatr.kg/video1/Filmu/7Ironmen2.2010.60fps.mp4
-#EXTINF:-1 ,Железный человек 3 60 FPS/Iron Man Three
-http://kinoteatr.kg/video1/Filmu/7Ironmen3.2013.60fps.mp4
-#EXTINF:-1 ,Кинг Конг 60 FPS/King Kong
-http://kinoteatr.kg/video1/Filmu/7King%20Kong.2005.60fps.mp4
-#EXTINF:-1 ,Обливион 60 FPS/Oblivion
-http://kinoteatr.kg/video1/Filmu/7Oblivion.2013.60fps.mp4
-#EXTINF:-1 ,Повелитель стихий 60 FPS/The Last Airbender
-http://kinoteatr.kg/video1/Filmu/7Povelitel.stihij.2010.60fps.mp4
-#EXTINF:-1 ,Соломон Кейн 60 FPS/Solomon Kane
-http://kinoteatr.kg/video1/Filmu/7Solomon%20Kane.2009.60fps.mp4
-#EXTINF:-1 ,Человек-паук 60 FPS/Spider-Man
-http://kinoteatr.kg/video1/Filmu/7Spidermen1.2002.60fps.mp4
-#EXTINF:-1 ,Человек-паук 2 60 FPS/Spider-Man 2
-http://kinoteatr.kg/video1/Filmu/7Spidermen2.2004.60fps.mp4
-#EXTINF:-1 ,Аватар 60 FPS/Avatar
-http://kinoteatr.kg/video2/Filmu/7Avatar.2009.60fps.mp4
-#EXTINF:-1 ,Морской бой 60 FPS/Battleship
-http://kinoteatr.kg/video2/Filmu/7Battleship.2012.60fps.mp4
-#EXTINF:-1 ,Глубоководный горизонт 60 FPS/Deepwater Horizon
-http://kinoteatr.kg/video2/Filmu/7Glubokovodnyi%20gorizont%202016.60fps.mp4
-#EXTINF:-1 ,Храброе сердце 60 FPS/Braveheart
-http://kinoteatr.kg/video2/Filmu/7Hrabroe%20cerdce.1995.60fps.mp4
-#EXTINF:-1 ,Robot
-http://kinoteatr.kg/video2/Filmu/7Ya%20robot.2004.60fps.mp4
-#EXTINF:-1 ,Король Артур 60 FPS/King Arthur
-http://kinoteatr.kg/video2/Filmu/7King%20Arthur.2004.60fps.mp4
-#EXTINF:-1 ,Законопослушный гражданин 60 FPS/Law Abiding Citizen
-http://kinoteatr.kg/video2/Filmu/7Zakonoposlushnui%20grajdanin.2009%2060fps.mp4
-#EXTINF:-1 ,Книга Илая 60 FPS/The Book of Eli
-http://kinoteatr.kg/video2/Filmu/7Kniga%20Ilaya.2010.60fps.mp4
-#EXTINF:-1 ,Перл-Харбор 60 FPS/Pearl Harbor
-http://kinoteatr.kg/video2/Filmu/7Pearl%20Harbor.2001.60fps.mp4
-#EXTINF:-1 ,Ромео должен умереть 60 FPS/Romeo Must Die
-http://kinoteatr.kg/video2/Filmu/7Romeo%20doljen%20umeret.2000.60fps.mp4
 #EXTINF:-1,Автар(2009) BDRip
 https://cdn4502.vb17120ayeshajenkins.pw/stream2/cdn-400/c7d8d861e8877ad4de56f3df46adcea2/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVGx2TEZEaapmVo1ERRlXTUtGeZpXRykVbFdnWElENZpmWq5kMOt2TEdWP:1605644836:91.132.107.17:09888acb4b11a7707b8848bb255c0ec8df1238342b049e3a911bc4e9b0bed3e8/1080/index.m3u8
 #EXTINF:-1,vg-name="Мстители (2012) BDRip" tvg-logo="https://image.kinokrad.co/p/f/1442528822_mstiteli.jpeg", Мстители (2012) BDRip
