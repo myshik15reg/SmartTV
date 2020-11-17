@@ -154,8 +154,6 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 http://188.35.9.26:12030/udp/160l
 #EXTINF:-1 ,КиноПремиум HD
 http://188.35.9.11:2017
-#EXTINF:-1 ,Кино ТВ HD
-http://astra.realcrimea.net:8000/play/a01e
 #EXTINF:-1 ,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 ,Bollywood HD
@@ -2108,8 +2106,6 @@ http://46.166.215.43:81/udp/233.173.129.74:1234
 http://46.166.215.43:81/udp/233.173.129.75:1234
 #EXTINF:-1 ,LEOMAX
 http://46.166.215.43:81/udp/233.173.129.78:1234
-#EXTINF:-1 ,КИНО ТВ HD
-http://46.166.215.43:81/udp/233.173.129.79:1234
 #EXTINF:-1 ,ТНТ4
 http://46.166.215.43:81/udp/233.173.129.81:1234
 #EXTINF:-1 ,КИНО ТВ
@@ -2705,8 +2701,6 @@ http://77.89.204.107:8000/play/a06t/index.m3u8
 http://hlstv.kem.211.ru/239.211.211.73/stream.m3u8
 #EXTINF:-1,Кино ТВ
 http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
-#EXTINF:-1,Кино ТВ HD
-http://astra.realcrimea.net:8000/play/a01e
 #EXTINF:-1,Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1,Star Family
@@ -2751,8 +2745,6 @@ http://live02-cdn.tv.ti.ru:80/dtv/id162_NBN_SG--RusIllusion/03/plst.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id1075_NBN_SG--RusDetektiv/03/plst.m3u8
 #EXTINF:-1,Русский Роман HD
 http://live02-cdn.tv.ti.ru:80/dtv/id232_NBN_SG--RusRoman/04/plst.m3u8
-#EXTINF:-1,Кино ТВ HD
-http://live02-cdn.tv.ti.ru:80/dtv/id1282_NBN_SG--KinoTVHD/04/plst.m3u8
 #EXTINF:-1,Красная Линия
 http://live02-cdn.tv.ti.ru:80/dtv/id1289_NBN_SG--KrasLiniya/03/plst.m3u8
 #EXTINF:-1,Победа
