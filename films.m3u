@@ -1,8 +1,8 @@
 #EXTM3U
-//#EXTINF:-1,Тони Эрдманн (2017)
-//http://hls.kinokrad.co/hls/Toni.ERdmann.2016.HDRip/playlist.m3u8
+##EXTINF:-1,Тони Эрдманн (2017)
+#http://hls.kinokrad.co/hls/Toni.ERdmann.2016.HDRip/playlist.m3u8
 #EXTINF:-1,Заговор на острове Джекилл (2017)
-http://hls.kinokrad.co/hls/Zagovor.na.ostrove.Djekill.2017.HDRip/playlist.m3u8
+http://hls.kinokrad.co/hls/Zagovor.na.ostrove.Djekill.2017.HDRip/playlist.m3u8-->
 #EXTINF:-1,Жуткая история (2017)
 http://hls.kinokrad.co/hls/Jutkaya.Istoriya.2017.HDRip/playlist.m3u8
 #EXTINF:-1, Плохие дети попадают в ад (2017)
